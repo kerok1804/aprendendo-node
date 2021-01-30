@@ -1,0 +1,12 @@
+Passar uma mensagem{"free":"2735 MB","total":"8052 MB","usage":"33 %"}
+{"free":"2722 MB","total":"8052 MB","usage":"33 %"}
+{"free":"2748 MB","total":"8052 MB","usage":"34 %"}
+{"free":"2744 MB","total":"8052 MB","usage":"34 %"}
+{"free":"2750 MB","total":"8052 MB","usage":"34 %"}
+{"free":"2750 MB","total":"8052 MB","usage":"34 %"}
+{"free":"2774 MB","total":"8052 MB","usage":"34 %"}
+{"free":"2785 MB","total":"8052 MB","usage":"34 %"}
+{"free":"2784 MB","total":"8052 MB","usage":"34 %"}
+{"free":"2779 MB","total":"8052 MB","usage":"34 %"}
+{"free":"2786 MB","total":"8052 MB","usage":"34 %"}
+{"free":"2787 MB","total":"8052 MB","usage":"34 %"}
